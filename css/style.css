@@ -376,8 +376,9 @@ form textarea{
     padding-top: 10px;
 }
 .contact .img{
-    width: 60px;
-    height: 60px;
+    width: auto;
+    height: 50px;
+    background: transparent;
     margin: 10px;
 }
 .links{
